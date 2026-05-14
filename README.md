@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/status-planning-blue)
+![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Project](https://img.shields.io/badge/project-AI%20Assistant-purple)
+
 # First Github project
 I have done a similar poject with an AI called from GROQ API into a Raspberry Pie. The system was able to communicate through speakers, a microphone, and the terminal...
 However, due to a lack of planning and experience, The AI gained to much freedom and it ended up stress-testing its environment by generating large amounts of unusable files.
