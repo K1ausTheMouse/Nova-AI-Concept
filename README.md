@@ -1,2 +1,68 @@
-# Nova-AI-Concept
-Concept for a local AI assistant with memory
+## First Github project
+I have done a similar poject with an AI called from GROQ API into a Raspberry Pie. The system was able to communicate through speakers, a microphone, and the terminal...
+However, due to a lack of planning and experience, The AI gained to much freedom and it ended up stress-testing its environment by generating large amounts of unusable files.
+From that, I learned the importance of control, structure, and planning. This project is a more careful and thought-out attempt at building a similar system. :)
+
+
+# Nova AI Concept
+
+Nova is a personal project idea for a local AI assistant with memory and interaction capabilities.
+
+## Goal
+To build a basic system that can store information, respond to input, and improve interactions over time.
+
+## Core Features
+- Take user input (text, voice, touch, image)
+- Store important information as memory
+- Recall memory when needed
+- Generate responses using an AI model
+- Handle voice and sensor input
+
+## Technologies
+- Python
+- SQLite (database)
+- AI model (Ollama / API)
+- Raspberry Pi (planned)
+- Draw.io (for system design)
+
+## System Design
+
+### Memory Structure
+Planned database tables:
+- entities(people, AI's or objects)
+- memories
+- interactions
+- environment
+
+## Development Plan
+
+### Stage 1
+- Create database
+- Store simple text memory
+- Retrieve memory
+- Connect AI model
+
+### Stage 2
+- Automatically save important information
+- Search memory
+- Improve responses using stored data
+
+### Stage 3
+- Voice input (speech → text)
+- Voice output (text → speech)
+
+### Stage 4
+- Add sensors (touch)
+- Detect input intensity
+- Store sensor events
+- React to touch
+
+## Future Ideas
+- Camera input
+- More advanced memory system
+- More natural,fast responses
+- Full physical system
+- Human body
+
+## Notes
+Currently in planning and early prototyping stage.
