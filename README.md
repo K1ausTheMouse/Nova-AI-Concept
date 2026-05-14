@@ -1,10 +1,10 @@
-## First Github project
+# First Github project
 I have done a similar poject with an AI called from GROQ API into a Raspberry Pie. The system was able to communicate through speakers, a microphone, and the terminal...
 However, due to a lack of planning and experience, The AI gained to much freedom and it ended up stress-testing its environment by generating large amounts of unusable files.
 From that, I learned the importance of control, structure, and planning. This project is a more careful and thought-out attempt at building a similar system. :)
 
 
-# Nova AI Concept
+## Nova AI Concept
 
 Nova is a personal project idea for a local AI assistant with memory and interaction capabilities.
 
